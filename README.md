@@ -3,12 +3,13 @@
     <br/>
     🦕
     <br />
-    deno-module
+    ghoul-portfolio
     <br />
     <br />
     <br />
     <br />
   </h1>
+
 <h1 align="center">Hi 👋, I'm Ghoul 3amk</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
