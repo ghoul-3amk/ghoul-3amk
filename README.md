@@ -1,11 +1,14 @@
-<hr>
-<div align="center">
-  <a href="[https://1999azzar.github.io/1999AZZAR/](https://ghou-3amk.web.app/)">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
-  </a>
-</div>
-<hr>
-
+  <h1>
+    <br/>
+    <br/>
+    🦕
+    <br />
+    deno-module
+    <br />
+    <br />
+    <br />
+    <br />
+  </h1>
 <h1 align="center">Hi 👋, I'm Ghoul 3amk</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
