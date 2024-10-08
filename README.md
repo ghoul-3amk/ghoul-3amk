@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="30px" />, I'm Tharindu N. Madhusanka</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="30px" />, I'm Oussama E. Ghoul 3amk</h1>
 <h3 align="center">Self-Taught Developer. Tech Enthusiast</h3>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 </div>
 
-<a href="https://github.com/ghoul-3amk"><img src="https://komarev.com/ghpvc/?username=truethari&style=flat-square&color=blue" alt=""/></a>
+<a href="https://github.com/ghoul-3amk"><img src="https://komarev.com/ghpvc/?username=ghoul-3amk&style=flat-square&color=blue" alt=""/></a>
 
 ## 🚀 About Me
 
