@@ -28,7 +28,7 @@ Hey there, I'm Oussama, a 21 year old software developer from the morocco. I lov
 
 - 🤝 I’m looking for help with **Android , MEARN**
 
-- 👨‍💻 All of my projects are available at [https://ghou-3amk.web.app/](soon)
+- 👨‍💻 All of my projects are available at [https://ghoul.vercel.app/]([soon](https://ghoul.vercel.app/))
 
 - 💬 Ask me about **Hacking**
 
