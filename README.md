@@ -8,7 +8,14 @@
 Hey there, I'm Oussama, a 21 year old software developer from the morocco. I love making Discord bots with JavaScript, whilst sometimes bit of web development.
 
 ---
+<div align="center">
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/768414261231747093?theme=dark&bg=212125&animated=true&borderRadius=30px&idleMessage=Hi%20im%20Omar)](https://discord.com/users/768414261231747093)
+<p>
+   <a href="https://discord.com/channels/@me/768414261231747093"> <img src="https://discord.c99.nl/widget/theme-4/941320979337076776.png" alt="contact mee"></a>
+<p>
+
+</div>
 <br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghoul-3amk&label=Profile%20views&color=0e75b6&style=flat" alt="ghoul-3amk" /> </p>
