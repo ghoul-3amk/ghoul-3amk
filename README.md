@@ -3,6 +3,24 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1233691760782479403/1234417272878272532/avatar.gif?ex=6630a82c&is=662f56ac&hm=dde39240461200f71ae494a036e9f578bff1066938a2b60058d8a3567b95b8ef&=&width=350&height=350">
 
+# ABO FARGHALY
+
+Hey there, I'm Omar, a 21 year old software developer from the Egypt. I love making Discord bots with JavaScript, whilst sometimes bit of web development.
+
+### ![farghaly Text](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=5B3DFC&width=435&lines=Hi+there%2C+I%27m+Omar+Farghaly+%F0%9F%91%8B) 
+<!-- <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px"> -->
+
+---
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/768414261231747093?theme=dark&bg=212125&animated=true&borderRadius=30px&idleMessage=Hi%20im%20Omar)](https://discord.com/users/768414261231747093)
+<p>
+   <a href="https://discord.com/channels/@me/768414261231747093"> <img src="https://discord.c99.nl/widget/theme-3/768414261231747093.png" alt="contact mee"></a>
+<p>
+
+</div>
+<br />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghoul-3amk&label=Profile%20views&color=0e75b6&style=flat" alt="ghoul-3amk" /> </p>
 
 - 🔭 I’m currently working on **Ghoul Web App V5**
