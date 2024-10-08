@@ -10,7 +10,7 @@ Hey there, I'm Oussama, a 21 year old software developer from the morocco. I lov
 ---
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/768414261231747093?theme=dark&bg=212125&animated=true&borderRadius=30px&idleMessage=Hi%20im%20Omar)](https://discord.com/users/768414261231747093)
+[![Discord Presence](https://lanyard.cnrad.dev/api/941320979337076776)](https://discord.com/users/941320979337076776)
 <p>
    <a href="https://discord.com/channels/@me/768414261231747093"> <img src="https://discord.c99.nl/widget/theme-4/941320979337076776.png" alt="contact mee"></a>
 <p>
