@@ -12,7 +12,7 @@
 
 </div>
 
-<a href="https://github.com/truethari"><img src="https://komarev.com/ghpvc/?username=truethari&style=flat-square&color=blue" alt=""/></a>
+<a href="https://github.com/ghoul-3amk"><img src="https://komarev.com/ghpvc/?username=truethari&style=flat-square&color=blue" alt=""/></a>
 
 ## 🚀 About Me
 
