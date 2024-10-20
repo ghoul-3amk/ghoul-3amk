@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/17/c3/0a/17c30a274865498d44b3c9f47ff37ee2.gif)
+![MasterHead](https://i.pinimg.com/originals/0b/0e/d9/0b0ed96ddad0cdbd8e4aabfaf2ff1a10.gif)
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="30px" />, I'm Oussama E. Ghoul 3amk</h1>
 <h3 align="center">Self-Taught Developer. Tech Enthusiast</h3>
