@@ -50,4 +50,4 @@ echo Disk Cleanup Completed!
 echo.
 echo ==== Deep Cleanup Completed! ====
 echo Please restart your computer for full effect.
-pause
+exit
